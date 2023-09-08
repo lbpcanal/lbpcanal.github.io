@@ -30,7 +30,7 @@ permalink: /:year/:month/:day/:title:output_ext
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: Phlow/feeling-responsive
 plugins:
   - jekyll-feed
 
