@@ -32,11 +32,13 @@ title: ஜூலை 4 - பெருந்திரள் முறையீட�
 
 03/07/2023
 
-
-{% include lightbox.html src="posts/2023/07/03/muraiyeedu-invite-1.jpg" data="group" title="பெருந்திரள் முறையீடு - அழைப்பு 1" %}
-{% include lightbox.html src="posts/2023/07/03/muraiyeedu-invite-2.jpg" data="group" title="பெருந்திரள் முறையீடு - அழைப்பு 2" %}
-{% include lightbox.html src="posts/2023/07/03/muraiyeedu-invite-3.jpg" data="group" title="பெருந்திரள் முறையீடு - அழைப்பு 3" %}
-{% include lightbox.html src="posts/2023/07/03/muraiyeedu-invite-4.jpg" data="group" title="பெருந்திரள் முறையீடு - அழைப்பு 4" %}
-{% include lightbox.html src="posts/2023/07/03/muraiyeedu-invite-5.jpg" data="group" title="பெருந்திரள் முறையீடு - அழைப்பு 5" %}
-{% include lightbox.html src="posts/2023/07/03/muraiyeedu-invite-6.jpg" data="group" title="பெருந்திரள் முறையீடு - அழைப்பு 6" %}
-{% include lightbox.html src="posts/2023/07/03/muraiyeedu-invite-7.jpg" data="group" title="பெருந்திரள் முறையீடு - அழைப்பு 7" %}
+<figure class="half">
+	<a href="/assets/img/posts/2023/07/03/muraiyeedu-invite-2.jpg"><img src="/assets/img/posts/2023/07/03/muraiyeedu-invite-2.jpg"></a>
+	<a href="/assets/img/posts/2023/07/03/muraiyeedu-invite-1.jpg"><img src="/assets/img/posts/2023/07/03/muraiyeedu-invite-1.jpg"></a>
+	<a href="/assets/img/posts/2023/07/03/muraiyeedu-invite-3.jpg"><img src="/assets/img/posts/2023/07/03/muraiyeedu-invite-3.jpg"></a>
+	<a href="/assets/img/posts/2023/07/03/muraiyeedu-invite-4.jpg"><img src="/assets/img/posts/2023/07/03/muraiyeedu-invite-4.jpg"></a>
+	<a href="/assets/img/posts/2023/07/03/muraiyeedu-invite-5.jpg"><img src="/assets/img/posts/2023/07/03/muraiyeedu-invite-5.jpg"></a>
+	<a href="/assets/img/posts/2023/07/03/muraiyeedu-invite-6.jpg"><img src="/assets/img/posts/2023/07/03/muraiyeedu-invite-6.jpg"></a>
+	<a href="/assets/img/posts/2023/07/03/muraiyeedu-invite-7.jpg"><img src="/assets/img/posts/2023/07/03/muraiyeedu-invite-7.jpg"></a>
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
