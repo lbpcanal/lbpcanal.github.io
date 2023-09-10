@@ -8,3 +8,12 @@ Docker Setup:
  https://aldomann.com/post/using-jekyll-lightbox-and-github-pages/
  
  Using - https://github.com/lokesh/lightbox2/tree/v2.11.4
+
+
+ `bundle exec jekyll serve`
+
+
+ ### Theme and Layout
+
+ https://mmistakes.github.io/minimal-mistakes
+ 
