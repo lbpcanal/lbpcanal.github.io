@@ -9,6 +9,7 @@ Docker Setup:
  
  Using - https://github.com/lokesh/lightbox2/tree/v2.11.4
 
+`fuser -k 4000/tcp`
 
  `bundle exec jekyll serve`
 
@@ -20,3 +21,16 @@ Docker Setup:
 
  ### Time line 
  https://github.com/neilgupta/timeliner/blob/master/index.html
+
+
+
+ ### Categories 
+
+ - CourtRelated
+ - News
+ - Petitions
+ - WorkBlock
+ - WaterTheft
+
+
+ 
