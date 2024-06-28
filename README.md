@@ -11,7 +11,8 @@ Docker Setup:
 
 `fuser -k 4000/tcp`
 
- `bundle exec jekyll serve`
+bundle exec jekyll serve
+ ``
 
 
  ### Theme and Layout

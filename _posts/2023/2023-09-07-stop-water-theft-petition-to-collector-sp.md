@@ -47,10 +47,10 @@ gallery-petition:
 
 ### செய்தி
 
+
 <video width="480" height="320" controls="controls">
   <source src="/assets/img/posts/2023/09/07/canal-damaged-petition-to-collector-sp/sun-news.mp4" type="video/mp4">
 </video>
-
 ### 
 
 {% include gallery id="gallery-exit-shutter" layout="third" caption="உடைக்கப்பட்ட அவசர கால நீர் போக்கி மற்றும் பக்க சுவர்" %}
